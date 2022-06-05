@@ -763,7 +763,7 @@ nav.navbar.bootsnav ul.nav li.megamenu-fw>a:hover {
     }
 }
 
-.arrow::before {
+/* .arrow::before {
     font-family: 'FontAwesome';
     content: "\f0d7";
     margin-left: 5px;
@@ -774,7 +774,7 @@ nav.navbar.bootsnav ul.nav li.megamenu-fw>a:hover {
     position: absolute;
     right: 10px;
     top: 10px;
-}
+} */
 
 .dropdown-toggle::after {
     display: none;
@@ -1752,7 +1752,7 @@ ul.cart-list>li.total>.btn:hover {
     -ms-transition: all .3s ease-in-out;
 }
 
-.footer-link ul li a::before {
+/* .footer-link ul li a::before {
     font-family: FontAwesome;
     content: "\f105";
     position: absolute;
@@ -1764,17 +1764,15 @@ ul.cart-list>li.total>.btn:hover {
     -moz-transition: all .3s ease-in-out;
     -o-transition: all .3s ease-in-out;
     -ms-transition: all .3s ease-in-out;
-}
+} */
 
-.footer-link ul li a:hover::before {
+/* .footer-link ul li a:hover::before {
     left: 5px;
-}
+} */
 
 .footer-link ul li a:hover {
     color: #56CB72;
-    ;
     border-color: #56CB72;
-    ;
     padding-left: 20px;
 }
 
