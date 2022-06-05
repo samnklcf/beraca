@@ -3219,5 +3219,24 @@ ul.cart-list>li.total>.btn:hover {
 
 button,
 a {
-    border-radius: 8px !important;
+    border-radius: 4px !important;
+}
+
+
+a .cart {
+    border-radius: 0px !important;
+}
+
+.tn {
+    background-color: #56CB72;
+    color: white;
+    padding: 12px;
+    animation: all 1s ease;
+
+}
+
+.tn:hover {
+    background-color: #418d53 !important;
+    color: white !important;
+
 }
