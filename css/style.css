@@ -3211,4 +3211,13 @@ ul.cart-list>li.total>.btn:hover {
     margin-top: 20px;
 }
 
-.ju {}
+@media all and (max-width: 600px) {
+    .ko {
+        display: none !important;
+    }
+}
+
+button,
+a {
+    border-radius: 8px !important;
+}
