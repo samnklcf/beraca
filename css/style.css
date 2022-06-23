@@ -3238,3 +3238,18 @@ a .cart {
     color: white !important;
 
 }
+
+/* ici c'est le code que j'ai ajouter William debut */
+#sectiondeconfiance{
+    margin-top: 10vh!important;
+}
+
+.sousapropos{
+    color: #ffffff !important;
+}
+
+.sousapropos:hover{
+    color: yellow !important;
+}
+
+/* ici c'est le code que j'ai ajouter William la fin */
