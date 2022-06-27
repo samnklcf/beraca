@@ -1855,7 +1855,7 @@ ul.cart-list>li.total>.btn:hover {
 
 /*------------------------------------------------------------------ All Pages -------------------------------------------------------------------*/
 .all-title-box {
-    background: url("../images/all-bg-title.jpg") no-repeat center center;
+    background: url("../images/cochon.JPG") no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -ms-background-size: cover;
@@ -1863,7 +1863,7 @@ ul.cart-list>li.total>.btn:hover {
     background-size: cover;
     text-align: center;
     background-attachment: fixed;
-    padding: 70px 0px;
+    padding: 150px 0px;
     position: relative;
 }
 
